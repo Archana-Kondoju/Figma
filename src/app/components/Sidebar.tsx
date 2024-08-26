@@ -76,7 +76,7 @@ const Sidebar: React.FC = () => {
       <hr className='mx-3 border-teal-500'/>
       <div className='mb-6'>
         <h3 className='text-2xl font-medium text-teal-800 mt-6 text-center'>Genetic</h3>
-        <div className='mx-10 my-4 item-center'>
+        <div className='mx-8 my-4 item-center'>
             <button className='bg-teal-500 text-teal px-4 py-1 rounded hover:bg-teal-600 mr-1'>Indica</button>
             <button className='bg-teal-300 text-teal-800 px-4 py-1 rounded hover:bg-teal-600 mr-1'>Sativa</button>
             <button className='bg-teal-300 text-teal-800 px-4 py-1 rounded hover:bg-teal-600 mr-1'>Hybrid</button>
@@ -85,7 +85,7 @@ const Sidebar: React.FC = () => {
       <hr className='mx-3 border-teal-500'/>
       <div className='mb-6'>
         <h3 className='text-2xl font-medium text-teal-800 mt-6 text-center'>Bestrahitung</h3>
-        <div className='mx-10 my-4 item-center'>
+        <div className='mx-8 my-4 item-center'>
             <button className='text-lg bg-teal-500 text-white px-4 py-1 rounded hover:bg-teal-600 mr-1'>bestrahit</button>
             <button className='text-lg bg-teal-300 text-teal-800 px-4 py-1 rounded hover:bg-teal-600 mr-1'>nicht bestrahit</button>
         </div>
