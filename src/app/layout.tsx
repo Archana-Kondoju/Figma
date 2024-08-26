@@ -7,8 +7,8 @@ import Breadcrumb from './components/Breadcrumb';
 import SearchBar from './components/Searchbar';
 import Pagination from './components/Pagination';
 export const metadata = {
-  title: 'Your Site Title',
-  description: 'Your Site Description',
+  title: 'Figma',
+  description: 'Figma-NextJS-project',
 };
 
 interface LayoutProps {
